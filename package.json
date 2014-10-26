@@ -1,10 +1,10 @@
 {
   "name": "caf_prop",
   "description": "Exposes statically defined properties to all CAs",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "author": "Antonio Lain <antlai@cafjs.com>",
   "dependencies": {
   },
   "main": "index",
-  "engines": { "node": ">= 0.4.1 " }
+  "engines": { "node": ">= 0.8.1 " }
 }
